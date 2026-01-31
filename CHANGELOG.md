@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.0">
 
-## Unreleased (2025-12-02)
+## 0.1.0 (2026-01-31)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`e311dfa`](https://github.com/stdlib-js/stdlib/commit/e311dfa54b983e913453dc5c141115ef58e0c9dc) - **style:** remove extra empty line _(by Philipp Burckhardt)_
 -   [`49f4894`](https://github.com/stdlib-js/stdlib/commit/49f4894a7b05e173efc2c5f69ed56bbc98e52711) - **feat:** add `stats/base/ndarray/dmidrange` [(#8626)](https://github.com/stdlib-js/stdlib/pull/8626) _(by Divyanshu, Athan Reines)_
 
